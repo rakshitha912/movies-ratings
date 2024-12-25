@@ -1,0 +1,5 @@
+This task involves creating a model to predict a movie's rating based on features such
+as genre, director, and actors. Using regression techniques, the aim is to analyze
+historical movie data and develop a model that accurately estimates the rating
+assigned by users or critics. This project will require you to apply data analysis, preprocessing, feature engineering, and machine learning skills to explore how
+different factors influence movie ratings. Dataset
